@@ -1,0 +1,16 @@
+{
+  "name": "mekanik-mobil-elearning",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "react": "^18.3.0",
+    "react-dom": "^18.3.0",
+    "react-scripts": "5.0.1",
+    "adm-zip": "^0.5.10"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "zip": "node zip-project.js"
+  }
+}
